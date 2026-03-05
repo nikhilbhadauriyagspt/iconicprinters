@@ -283,8 +283,8 @@ export default function PrivacyPolicy() {
       <div className="bg-slate-50 p-8 rounded-3xl border border-slate-100 my-8 not-prose">
         <address className="not-italic text-slate-700 font-bold leading-relaxed">
                      My PrinterMan <br />          Authorised HP Partner<br />
-                     722 N West St<br />
-                     Raleigh, NC 27603<br />          United States
+                     4664 Cleveland Ave<br />
+                     Columbus, OH 43231<br />          United States
         </address>
       </div>
 

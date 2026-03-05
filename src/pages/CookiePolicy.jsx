@@ -157,8 +157,8 @@ export default function CookiePolicy() {
         <address className="not-italic text-slate-700 font-bold leading-relaxed space-y-2 uppercase tracking-tighter">
           <p className="text-slate-900 font-black">My PrinterMan</p>
           <p>Authorised HP Partner</p>
-          <p>722 N West St</p>
-          <p>Raleigh, NC 27603</p>
+          <p>4664 Cleveland Ave</p>
+          <p>Columbus, OH 43231</p>
           <p>United States</p>
           <p className="pt-4 text-blue-600 font-black lowercase">info@myprinterman.com</p>
         </address>

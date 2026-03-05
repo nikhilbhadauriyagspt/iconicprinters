@@ -175,7 +175,7 @@ export default function Footer() {
                     <MapPin size={20} className="text-blue-600" />
                   </div>
                   <span className="text-[14px] font-black text-slate-500 leading-relaxed capitalize tracking-tight">
-                    722 N West St <br /> Raleigh, NC 27603, USA
+                    4664 Cleveland Ave <br /> Columbus, OH 43231, USA
                   </span>
                </div>
                <div className="flex items-center gap-5">
@@ -191,7 +191,7 @@ export default function Footer() {
         {/* --- MAP --- */}
         <div className="w-full h-[300px] mb-16 grayscale border border-slate-100">
            <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3235.3456789!2d-78.6456789!3d35.7856789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ac5f6789abcdef%3A0x123456789abcdef!2zNzIyIE4gV2VzdCBTdCwgUmFsZWlnaCwgTkMgMjc2MDMsIFVTQQ!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin" 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3055.6728464654876!2d-82.952952423455!3d40.051515971499895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8838890252554e8b%3A0xe75868c2217c2a7e!2s4664%20Cleveland%20Ave%2C%20Columbus%2C%20OH%2043231%2C%20USA!5e0!3m2!1sen!2sin!4v1709664000000!5m2!1sen!2sin" 
               width="100%" height="100%" style={{ border: 0 }} allowFullScreen="" loading="lazy" 
               referrerPolicy="no-referrer-when-downgrade"
             />

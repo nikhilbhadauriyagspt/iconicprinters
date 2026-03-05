@@ -89,7 +89,7 @@ export default function Contact() {
                 <MapPin size={20} />
               </div>
               <p className="text-[9px] font-black text-blue-600 uppercase tracking-[0.3em] mb-2">Visit Office</p>
-              <h4 className="text-lg font-black text-slate-900 leading-tight group-hover:text-blue-600 transition-colors">722 N West St, Raleigh <br/> NC 27603, USA</h4>
+              <h4 className="text-lg font-black text-slate-900 leading-tight group-hover:text-blue-600 transition-colors">4664 Cleveland Ave, Columbus <br/> OH 43231, USA</h4>
             </div>
 
             <div className="p-8 bg-slate-900 text-white relative overflow-hidden border border-slate-800">
