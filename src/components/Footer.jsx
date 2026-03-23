@@ -112,7 +112,7 @@ export default function Footer() {
           </div>
 
           <div className="space-y-4">
-            <h4 className="text-[10px] font-black text-slate-900 uppercase tracking-[0.3em]">Hardware</h4>
+            <h4 className="text-[10px] font-black text-slate-900 uppercase tracking-[0.3em]">Printer</h4>
             <ul className="space-y-2">
               {categories.map(cat => (
                 <li key={cat.id}>

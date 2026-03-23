@@ -85,7 +85,7 @@ export default function Home() {
   return (
     <div className="bg-white font-jakarta overflow-x-hidden text-slate-900">
       <SEO 
-        title="Axel Printing | Quality Printers & Hardware"
+        title="Axel Printing | Quality Printers & Printer"
         description="Your trusted source for high-quality printers and printing printer. Delivering excellence across the USA."
       />
 

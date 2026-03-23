@@ -25,7 +25,7 @@ export default function Collections() {
 
               <h2 className="text-2xl md:text-4xl font-black leading-tight text-white ">
                 Premium <span className="text-blue-500">Printing</span> <br /> 
-                Hardware
+                Printer
               </h2>
 
               <p className="text-slate-300 text-[13px] md:text-sm font-medium leading-relaxed max-w-xs">

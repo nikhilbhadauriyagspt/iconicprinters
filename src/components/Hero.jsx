@@ -139,7 +139,7 @@ const Hero = () => {
           {[
             { img: banner2, tag: "New Arrival", title: "Smart Office Wireless Printers", delay: 0.2 },
             { img: banner3, tag: "Pro Choice", title: "High-Volume Precision Inks", delay: 0.3 },
-            { img: banner4, tag: "Sale", title: "Exclusive 20% Off On Hardware", delay: 0.4 }
+            { img: banner4, tag: "Sale", title: "Exclusive 20% Off On Printer", delay: 0.4 }
           ].map((item, index) => (
             <motion.div
               key={index}

@@ -175,7 +175,7 @@ export default function ProductDetail() {
             <div className="space-y-6">
               <div className="flex items-center gap-3">
                  <div className="h-px w-8 bg-blue-600"></div>
-                 <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-blue-600">Hardware specification</span>
+                 <span className="text-[10px] font-bold uppercase tracking-[0.2em] text-blue-600">Printer specification</span>
               </div>
 
               <h1 className="text-3xl md:text-5xl font-black text-slate-900 leading-tight">

@@ -91,7 +91,7 @@ export default function CartDrawer() {
                               <X size={18} strokeWidth={1.5} />
                             </button>
                           </div>
-                          <p className="text-[11px] font-bold text-blue-600/60">Elite Series Hardware</p>
+                          <p className="text-[11px] font-bold text-blue-600/60">Elite Series Printer</p>
                         </div>
 
                         <div className="flex items-center justify-between mt-auto">

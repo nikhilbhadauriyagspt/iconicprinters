@@ -85,7 +85,7 @@ export default function Cart() {
                         <Link to={`/product/${item.slug}`}>
                           <h3 className="text-xl font-bold text-slate-900 hover:text-blue-600 transition-colors leading-tight line-clamp-2">{item.name}</h3>
                         </Link>
-                        <p className="text-xs font-bold text-blue-600/60">Elite Series Professional Hardware</p>
+                        <p className="text-xs font-bold text-blue-600/60">Elite Series Professional Printer</p>
                       </div>
                       <button 
                         onClick={() => removeFromCart(item.id)}

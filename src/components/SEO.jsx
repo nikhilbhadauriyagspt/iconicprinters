@@ -21,7 +21,7 @@ export default function SEO({ title, description, keywords, schemaType = "Websit
       metaKeywords.name = "keywords";
       document.head.appendChild(metaKeywords);
     }
-    metaKeywords.setAttribute('content', keywords || "Quality Printer Specialist, Business Printers, Printing Hardware, Print Support");
+    metaKeywords.setAttribute('content', keywords || "Quality Printer Specialist, Business Printers, Printing Printer, Print Support");
 
     // Update Canonical
     let canonical = document.querySelector('link[rel="canonical"]');
